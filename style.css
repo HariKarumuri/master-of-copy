@@ -1,0 +1,27 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url(./blurry-gradient-haikei\ \(3\).png);
+  background-size: cover;
+}
+
+.pdf{
+  
+  height: 720px;
+  width: 1080px;
+}
+h1,h3,h6{
+  color: aliceblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-transform: capitalize;
+}
+span{
+  color: black;
+  font-size: 2rem;
+}
+.red{
+  color: red;
+  font-size: 2rem;
+}
